@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushijhunjhunwala&label=Profile%20views&color=0e75b6&style=flat" alt="vidushijhunjhunwala" /> </p>
 <p align ="left">- 🌱 I'm currently learning Reactjs</p>
 <p align="left">- 👯 I’m looking to collaborate on Software and Web Development 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 </p>
-<p align="left">- 💬 Ask me about 𝐃𝐒𝐀,SQL </p>
+<p align="left">- 💬 Ask me about 𝐃𝐒𝐀, SQL </p>
 <p align="left">- 📫 How to reach me **vidushiwillwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
