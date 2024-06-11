@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/vidushijhunjhunwala/vidushijhunjhunwala/assets/171278357/b71197de-2518-453c-bedf-4914dc6498ec)
 <h1 align="center">Hi 👋, I'm Vidushi Jhunjhunwala</h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hi%2C+Nice+to+meet+you+!!;I+am+learning+to+code+...;Have+a+good+day+!!"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Nice+to+meet+you+!!;I+am+learning+to+code+...;Have+a+good+day+!!"></p>
 <div align="center">
 <h3 align="center">A passionate software and web developer from India</h3>
 
