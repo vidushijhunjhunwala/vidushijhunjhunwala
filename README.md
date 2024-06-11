@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/vidushijhunjhunwala/vidushijhunjhunwala/assets/171278357/b71197de-2518-453c-bedf-4914dc6498ec)]
+![MasterHead](https://github.com/vidushijhunjhunwala/vidushijhunjhunwala/assets/171278357/b71197de-2518-453c-bedf-4914dc6498ec)
 
 <h1 align="center">Hi 👋, I'm Vidushi Jhunjhunwala</h1>
 <h3 align="center">A passionate software and web developer from India</h3>
