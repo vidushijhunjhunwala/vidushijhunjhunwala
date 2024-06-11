@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidushi Jhunjhunwala</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Nice+to+meet+you+!!;I+am+learning+to+code+...;Have+a+good+day+!!"></p>
 <div align="center">
-<h3 align="center">A passionate software and web developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh4aWhwNTMzYThrNWRzcTV0cGFzZWZseTBwaWF6MzJncnh2ZDgyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
