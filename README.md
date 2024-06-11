@@ -7,7 +7,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh4aWhwNTMzYThrNWRzcTV0cGFzZWZseTBwaWF6MzJncnh2ZDgyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushijhunjhunwala&label=Profile%20views&color=0e75b6&style=flat" alt="vidushijhunjhunwala" /> </p>
-
+- 👯 I’m looking to collaborate on Web Development 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 </p>
+- 💬 Ask me about 𝐃𝐒𝐀 </p>
 - 📫 How to reach me **vidushiwillwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
