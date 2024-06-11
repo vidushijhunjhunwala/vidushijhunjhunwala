@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/vidushijhunjhunwala/vidushijhunjhunwala/assets/171278357/5a5357f1-e264-4669-b321-f521f438ad7d)
 <h1 align="center">Hi 👋, I'm Vidushi Jhunjhunwala</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Nice+to+meet+you+!!;I+am+learning+to+code+...;Have+a+good+day+!!"></p>
 <div align="center">
