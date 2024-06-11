@@ -1,7 +1,7 @@
-[![MasterHead](https://gitbanner.js.org/)]
+[![MasterHead](https://github.com/vidushijhunjhunwala/vidushijhunjhunwala/assets/171278357/b71197de-2518-453c-bedf-4914dc6498ec)]
+
 <h1 align="center">Hi 👋, I'm Vidushi Jhunjhunwala</h1>
 <h3 align="center">A passionate software and web developer from India</h3>
-![image](https://github.com/vidushijhunjhunwala/vidushijhunjhunwala/assets/171278357/935077d5-c058-4521-980b-5a0c01408cd5)
 
 <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/ngtrY3oZdgp74ao57" />
 
