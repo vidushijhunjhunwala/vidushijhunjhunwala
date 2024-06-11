@@ -1,4 +1,6 @@
-![MasterHead](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
+![MasterHead](https://github.com/vidushijhunjhunwala/vidushijhunjhunwala/assets/171278357/636b87ec-2ee2-4039-9ac1-0ae7e1a64118)
+
+
 <h1 align="center">Hi 👋, I'm Vidushi Jhunjhunwala</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Nice+to+meet+you+!!;I+am+learning+to+code+...;Have+a+good+day+!!"></p>
 <div align="center">
