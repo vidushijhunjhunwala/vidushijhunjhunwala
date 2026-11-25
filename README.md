@@ -8,7 +8,7 @@ Software Developer building **backend systems and AI-powered applications**. Bas
 
 | System | What I worked on |
 | --- | --- |
-| [Portalbot — AI Sales & Recommendations](https://github.com/vidushijhunjhunwala/ai-engineering-showcase/blob/main/docs/portalbot.md) | Multilingual RAG, semantic retrieval with Qdrant, catalog-grounded recommendations and Magento integration. |
+| [Portalbot — AI Sales & Recommendations](https://github.com/vidushijhunjhunwala/ai-engineering-showcase/blob/main/docs/portalbot.md) | Multilingual RAG, semantic retrieval with Qdrant, catalog-grounded recommendations and Magento integration. [Holiday eSIM website](https://holidayesim.com/) |
 | [Supportbot — WhatsApp AI Support](https://github.com/vidushijhunjhunwala/ai-engineering-showcase/blob/main/docs/supportbot.md) | Knowledge retrieval, OCR/PDF/voice inputs, identifier validation, troubleshooting and human takeover. |
 | [Workflow Automation](https://github.com/vidushijhunjhunwala/ai-engineering-showcase/blob/main/docs/workflow-automation.md) | Python, Node.js, n8n, REST APIs and webhooks connecting operational updates, email and Google Sheets. |
 
