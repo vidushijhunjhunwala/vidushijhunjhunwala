@@ -4,22 +4,23 @@ Software Developer building **backend systems and AI-powered applications**. Bas
 
 [Portfolio](https://portfolio.vidushij.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/vidushi-jhunjhunwala/) · [Email](mailto:vidushiwillwork@gmail.com)
 
-## What I build
+## Featured AI work
 
-- **Backend platforms:** telecom/eSIM purchase and activation workflows, operator API integrations, partner wallets, transaction ledgers, multi-currency pricing, VAT invoicing and vouchers.
-- **AI applications:** multilingual product recommendation and customer-support assistants using Python, FastAPI, Qwen, Ollama, Qdrant and retrieval-augmented generation (RAG).
-- **Support automation:** knowledge retrieval, OCR, PDF extraction, voice-note transcription, troubleshooting workflows and human handoff.
-- **Workflow automation:** API and webhook-driven integrations using Python, Node.js and n8n.
-
-## Public code samples
-
-| Project | What to review |
+| System | What I worked on |
 | --- | --- |
-| [Patient Registration System](https://github.com/vidushijhunjhunwala/patient-registration-form) | React forms, client-side validation, browser-based PostgreSQL with PGlite, IndexedDB persistence and SQL queries. |
-| [Snake Game](https://github.com/vidushijhunjhunwala/snake-game) | Vanilla JavaScript game state, keyboard input, collision detection and CSS Grid rendering. |
-| [Web Development Exercises](https://github.com/vidushijhunjhunwala/Encryptix) | Earlier HTML, CSS and JavaScript practice projects. |
+| [Portalbot — AI Sales & Recommendations](https://github.com/vidushijhunjhunwala/ai-engineering-showcase/blob/main/docs/portalbot.md) | Multilingual RAG, semantic retrieval with Qdrant, catalog-grounded recommendations and Magento integration. |
+| [Supportbot — WhatsApp AI Support](https://github.com/vidushijhunjhunwala/ai-engineering-showcase/blob/main/docs/supportbot.md) | Knowledge retrieval, OCR/PDF/voice inputs, identifier validation, troubleshooting and human takeover. |
+| [Workflow Automation](https://github.com/vidushijhunjhunwala/ai-engineering-showcase/blob/main/docs/workflow-automation.md) | Python, Node.js, n8n, REST APIs and webhooks connecting operational updates, email and Google Sheets. |
 
-The professional systems described above are employer work; their source code is not published here.
+These are resume-grounded professional case studies. Employer source code and customer data are not published.
+
+### Try the code: AI Support Workbench
+
+[**Open the AI Engineering Showcase →**](https://github.com/vidushijhunjhunwala/ai-engineering-showcase)
+
+A new, standalone FastAPI reference demo with fictional data: inspect request routing, ranked retrieval, cited answers, missing-evidence abstention and human handoff. It runs locally without a paid API, with optional local Ollama generation. Includes a browser interface, API documentation and regression tests.
+
+This reference implementation is separate from the professional systems described above.
 
 ## Technical toolkit
 
