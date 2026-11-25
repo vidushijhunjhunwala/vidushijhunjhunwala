@@ -11,6 +11,16 @@ Software Developer building **backend systems and AI-powered applications**. Bas
 - **Support automation:** knowledge retrieval, OCR, PDF extraction, voice-note transcription, troubleshooting workflows and human handoff.
 - **Workflow automation:** API and webhook-driven integrations using Python, Node.js and n8n.
 
+## Public code samples
+
+| Project | What to review |
+| --- | --- |
+| [Patient Registration System](https://github.com/vidushijhunjhunwala/patient-registration-form) | React forms, client-side validation, browser-based PostgreSQL with PGlite, IndexedDB persistence and SQL queries. |
+| [Snake Game](https://github.com/vidushijhunjhunwala/snake-game) | Vanilla JavaScript game state, keyboard input, collision detection and CSS Grid rendering. |
+| [Web Development Exercises](https://github.com/vidushijhunjhunwala/Encryptix) | Earlier HTML, CSS and JavaScript practice projects. |
+
+The professional systems described above are employer work; their source code is not published here.
+
 ## Technical toolkit
 
 | Area | Technologies |
